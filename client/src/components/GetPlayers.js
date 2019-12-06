@@ -11,7 +11,7 @@ class GetPlayers extends React.Component {
     this.state = {
       player: []
     };
-    console.log('Constructicons Assemble!');
+    // console.log('Constructicons Assemble!');
   }
 
   componentDidMount() {
